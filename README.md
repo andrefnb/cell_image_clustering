@@ -1,5 +1,6 @@
 # AA_assignment_2
 
+Master's Degree in Big Data analysis and engeneering. Assignment 2 of the Machine Learning course.
 
 Objective
 
