@@ -1,4 +1,4 @@
-# AA_assignment_2
+# cell_image_clustering
 
 Master's Degree in Big Data analysis and engeneering. Assignment 2 of the Machine Learning course.
 
